@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -53,5 +55,5 @@ PowerShell               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 13:30:12 UTC
+ Last Updated on 17/11/2026 13:34:25 UTC
 <!--END_SECTION:waka-->
