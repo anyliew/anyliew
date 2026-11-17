@@ -22,7 +22,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
 No Activity Tracked This Week

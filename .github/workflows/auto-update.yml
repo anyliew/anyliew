@@ -44,7 +44,8 @@ jobs:
       - run: |
           git config user.name "anyliew"
           git config user.email "anyliew@outlook.com"
-          git add static
           git pull
+          sed -i 's|Asia/Shanghai|Asia/Singapore|g' README.md
+          git add static README.md
           git diff-index --quiet HEAD || git commit -m ":bento: update github stats"
           git push
