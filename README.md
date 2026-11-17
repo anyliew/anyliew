@@ -22,7 +22,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Singapore
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -55,5 +55,5 @@ PowerShell               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 13:34:25 UTC
+ Last Updated on 17/11/2026 13:38:38 UTC
 <!--END_SECTION:waka-->
