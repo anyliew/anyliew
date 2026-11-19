@@ -22,7 +22,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Singapore
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -43,17 +43,17 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Python** 
 
 ```text
-Rust                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Rust                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 18/11/2026 06:54:46 UTC
+ Last Updated on 19/11/2026 06:55:59 UTC
 <!--END_SECTION:waka-->
